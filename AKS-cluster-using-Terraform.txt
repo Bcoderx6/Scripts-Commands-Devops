@@ -1,5 +1,3 @@
-Video -- https://youtu.be/UxOBAJlgzKM
-===============================================================================================================================================================================================================================
 A] Prerequisites
 https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli
 https://code.visualstudio.com/download
